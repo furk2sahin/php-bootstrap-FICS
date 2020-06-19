@@ -1,5 +1,4 @@
 # php-bootstrap-FICS
-Social Networking Website
 
 Bu projede
 
