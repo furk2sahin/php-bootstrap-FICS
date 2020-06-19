@@ -2,9 +2,9 @@
 
 Bu projede
 
--Bootstrap
+Bootstrap
 --
--php
+php
 --
 teknolojileri kullanıldı.
 
