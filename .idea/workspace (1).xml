@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af49c08c-4bba-4c45-9c58-967246249389" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1cdVEGoKwJjQQP2G3qOEoEbRd3T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../../xampp/htdocs/FICS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af49c08c-4bba-4c45-9c58-967246249389" name="Default Changelist" comment="" />
+      <created>1590858343679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590858343679</updated>
+      <workItem from="1590858345352" duration="284000" />
+      <workItem from="1590858630493" duration="30000" />
+      <workItem from="1590858753294" duration="12000" />
+      <workItem from="1590858767073" duration="53000" />
+      <workItem from="1590859239581" duration="535000" />
+      <workItem from="1591650349566" duration="568000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Deployment" timestamp="1591650515729">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1591650515729" />
+    <state x="360" y="45" key="#Options" timestamp="1591650491045">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="360" y="45" key="#Options/0.0.1366.728@0.0.1366.728" timestamp="1591650491045" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1591650917070">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591650917070" />
+  </component>
+</project>

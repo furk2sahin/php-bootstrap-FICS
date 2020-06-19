@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0ab9b968-8233-4488-85a0-d27ad8b2e4bd" name="local" url="http://localhost/FICS">
+        <fileTransfer mountedRoot="C:\local" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>

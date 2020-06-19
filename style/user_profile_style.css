@@ -1,0 +1,104 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	background-color:#E6E6FA;
+	overflow-x: hidden;
+	background-size: cover;
+}
+
+
+.container {
+	margin:0; 
+	padding:0; 
+	background-color:#E6E6FA;
+}
+#head_wrap{
+	width:100%; 
+	height:50px;
+	margin:0 auto;
+	border-bottom:2px solid white;
+	padding:15px; 
+	background:green;
+}
+
+#header {
+	margin:0 auto;
+	width:1080px;
+	height:25px;
+}
+#menu {
+	line-height:40px; 
+	padding:0; 
+	margin:0;
+	float:left;
+}
+
+#menu li {
+	display:inline; 
+	list-style:none;
+}
+#menu a {
+	margin:2px; 
+	padding:4px; 
+	text-decoration:none;
+	color:white; 
+	font-size:20px;
+	font-weight:bold;
+}
+#menu a:hover{
+	color:#555; 
+	font-weight:bolder;
+	text-decoration:underline;
+}
+#menu strong {
+	font-size:20px; 
+	text-decoration:underline;
+	color:white;
+}
+#form1 {
+	float:right;
+	line-height:3px;
+	padding-top:9px;
+}
+#form1 input[type=text] {
+    width: 64%;
+    height:25px; 
+    color: green;
+}
+#form1 input[type=submit] {
+    width: 30%;
+    height:30px; 
+    color: green;
+}
+#user_mention{
+	background:green;
+	border:1px solid black; 
+	border-radius:4px;
+	width:380px;
+	/*margin-left: 750px;*/
+	margin:0 auto;
+	padding:30px;
+}
+#user_profile img {
+	border: 20px solid green;
+}
