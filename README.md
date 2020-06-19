@@ -3,7 +3,7 @@ Social Networking Website
 
 Bu projede
 
-# -Bootstrap
+$ -Bootstrap
 # -php
 
 teknolojileri kullanıldı.
